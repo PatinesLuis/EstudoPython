@@ -1,0 +1,1 @@
+mochila = [['cebola',0.40],['camisa',5.5],['bacon',3],['abacate',2.5]]
